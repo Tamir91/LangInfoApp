@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LanguageChange</string>
+    <string name="Setting">Setting</string>
+    <string name="Exit">Exit</string>
+    <string name="titleSpinner">Languages</string>
+    <string name="Back">Back</string>
+</resources>
